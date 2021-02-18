@@ -1,6 +1,6 @@
 # Retenção de clientes do cartão de crédito
 
-> O problema proposto é modelar uma solução preditiva para a evasão de clientes, realizando uma breve analise descritiva, testar três maneiras distintas de modelagem, logit, random forest e isolation forest, identificando a mais promissora para submeter a base de teste.
+> O problema proposto é modelar uma solução preditiva para a evasão de clientes, realizando uma breve analise descritiva, testar duas maneiras distintas de modelagem, logit e random forest   identificando a mais promissora para submeter a base de teste.
 
 
 >Esta é a [base original]. 
